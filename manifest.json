@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Boonlificent",
+  "short_name": "Boonlificent",
+  "author": "Max Helmetag",
+  "version": "1.0.0",
+  "version_name": "1.0.0",
+  "description": "Auto payroll deduction helper for Boonli",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*.boonli.com"
+      ],
+      "js": [
+        "build/content.js"
+      ],
+      "run_at": "document_end"
+    }
+  ]
+}
