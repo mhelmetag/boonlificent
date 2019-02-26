@@ -6,7 +6,7 @@
   "scripts": {
     "clean": "rm -rf build && rm -f boonlificent.zip",
     "build": "./node_modules/.bin/babel src -d build",
-    "zip": "zip boonlificent.zip manifest.json build/*",
+    "zip": "zip boonlificent.zip manifest.json build/* images/*",
     "release": "npm run clean && npm run build && npm run zip"
   },
   "repository": {
