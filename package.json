@@ -1,6 +1,6 @@
 {
   "name": "boonlificent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Auto payroll deduction helper for Boonli",
   "main": "src/content.js",
   "scripts": {
