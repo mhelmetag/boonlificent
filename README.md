@@ -1,6 +1,6 @@
 # Boonlificent
 
-Note: Boonli has made some changes to their UI that broke the extension... and with COVID-19 and not working from the office for at least the near future (and therefore not using Boonli), I haven't had the motivation to fix or improve the extension. I'll unarchive this repo if we return to the office and using Boonli.
+**Note:** Boonli has made some changes to their UI that broke the extension... and with COVID-19 and not working from the office for at least the near future (and therefore not using Boonli), I haven't had the motivation to fix or improve the extension. I'll unarchive this repo if we return to the office and using Boonli.
 
 Auto payroll deduction helper for Boonli
 
